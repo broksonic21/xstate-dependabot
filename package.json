@@ -1,0 +1,24 @@
+{
+  "name": "@broksonic21/xstate-dependabot",
+  "version": "0.0.1",
+  "private": true,
+  "description": "shared configurations",
+  "license": "UNLICENSED",
+  "files": [],
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo 'no tests yet'"
+  },
+  "dependencies": {
+    "@broksonic21/wrapper": "file:packages/wrapper"
+  },
+  "volta": {
+    "node": "18.16.0",
+    "npm": "9.7.1"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}

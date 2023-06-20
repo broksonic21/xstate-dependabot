@@ -1,0 +1,18 @@
+{
+  "name": "@broksonic21/wrapper",
+  "version": "0.0.1",
+  "description": "wrapper",
+  "license": "UNLICENSED",
+  "files": [
+  ],
+  "dependencies": {
+    "xstate": "^4.37.1"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  },
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  }
+}
