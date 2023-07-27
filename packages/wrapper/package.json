@@ -6,7 +6,7 @@
   "files": [
   ],
   "dependencies": {
-    "xstate": "^4.37.1"
+    "xstate": "^4.38.2"
   },
   "volta": {
     "extends": "../../package.json"
